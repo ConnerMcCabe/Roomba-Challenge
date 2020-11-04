@@ -1,7 +1,7 @@
 import React from 'react';
-import { Component } from 'react';
 
-class Tile extends Component {
+class RoombaControls extends Component {
+  
   render() {
     return (
       <div>clean tile</div>
@@ -9,4 +9,4 @@ class Tile extends Component {
   }
 }
 
-export default Tile;
+export default RoombaControls;
